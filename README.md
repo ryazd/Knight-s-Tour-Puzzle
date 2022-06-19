@@ -1,25 +1,25 @@
-#The Knight’s Tour is a fun puzzle where you move the knight so that it visits every square of the chessboard once.The rules are simple and fun, but the game is really hard to master.
+# The Knight’s Tour is a fun puzzle where you move the knight so that it visits every square of the chessboard once.The rules are simple and fun, but the game is really hard to master.
 
 
-##Example 1
+## Example 1
 
 Enter your board dimensions: > 4 4  
 Enter the knight's starting position: > 2 2  
 Do you want to try the puzzle? (y/n): > n  
 No solution exists!
 
-##Example 2
+## Example 2
 Enter your board dimensions: > 4 4  
 Enter your knight's starting position: > 2 2  
 Do you want to try the puzzle? (y/n): > y  
 No solution exists!
 
-##Example 3
+## Example 3
 
 Enter your board dimensions: > 5 4  
 Enter knight's starting position: > 1 4  
 Do you want to try the puzzle? (y/n): > y  
- ------------------
+
 4| X __ __ __ __ |  
 3| __ __  5 __ __ |  
 2| __  3 __ __ __ |  
@@ -36,7 +36,7 @@ Enter your next move: > 2 4
 
 What a great tour! Congratulations!
 
-##Example 4
+## Example 4
 
 Enter your board dimensions: > 4 3  
 Enter the knight's starting position: > 1 3  
@@ -49,7 +49,7 @@ Here's the solution!
 1|  3  6 11  8 |   
 1  2  3  4
 
-##Example 5
+## Example 5
 
 Enter your board's dimensions: > 6 6  
 Enter the knight's starting position: > 1 6  
